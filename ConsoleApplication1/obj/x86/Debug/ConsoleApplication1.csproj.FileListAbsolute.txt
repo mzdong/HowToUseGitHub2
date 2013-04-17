@@ -3,3 +3,5 @@ D:\GitHubCode\TestToUseGitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.
 D:\GitHubCode\TestToUseGitHub\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\GitHubCode\TestToUseGitHub\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 D:\GitHubCode\TestToUseGitHub\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\My Documents\GitHub\HowToUseGitHub2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\My Documents\GitHub\HowToUseGitHub2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
